@@ -1,0 +1,206 @@
+[
+  {
+    "model": "ASTRA",
+    "price": 123000,
+    "mileage": 10000,
+    "engine": {
+      "engineType": "DIESEL",
+      "power": 143.5
+    },
+    "carBody": {
+      "color": "BLACK",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ABS",
+        "ESP",
+        "AIR CONDITION"
+      ]
+    },
+    "wheel": {
+      "model": "A",
+      "size": 19,
+      "tyreType": "WINTER"
+    }
+  },
+  {
+    "model": "ACCORD",
+    "price": 180000,
+    "mileage": 100,
+    "engine": {
+      "engineType": "DIESEL",
+      "power": 150.0
+    },
+    "carBody": {
+      "color": "BLACK",
+      "bodyType": "SEDAN",
+      "components": [
+        "AUX",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "model": "B",
+      "size": 18,
+      "tyreType": "WINTER"
+    }
+  },
+  {
+    "model": "MEGANE",
+    "price": 80000,
+    "mileage": 2564,
+    "engine": {
+      "engineType": "GASOLINE",
+      "power": 115.0
+    },
+    "carBody": {
+      "color": "BLUE",
+      "bodyType": "COMBI",
+      "components": [
+        "ABS",
+        "ESP",
+        "AIR BAG",
+        "PARKING SENSORS"
+      ]
+    },
+    "wheel": {
+      "model": "C",
+      "size": 17,
+      "tyreType": "SUMMER"
+    }
+  },
+  {
+    "model": "CIVIC",
+    "price": 130000,
+    "mileage": 580,
+    "engine": {
+      "engineType": "GASOLINE",
+      "power": 150.0
+    },
+    "carBody": {
+      "color": "GREEN",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "AIR BAG",
+        "ESP"
+      ]
+    },
+    "wheel": {
+      "model": "A",
+      "size": 17,
+      "tyreType": "SUMMER"
+    }
+  },
+  {
+    "model": "POLO",
+    "price": 60000,
+    "mileage": 1080,
+    "engine": {
+      "engineType": "DIESEL",
+      "power": 90.0
+    },
+    "carBody": {
+      "color": "WHITE",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "PARKING SENSORS",
+        "AIR CONDITION"
+      ]
+    },
+    "wheel": {
+      "model": "A",
+      "size": 16,
+      "tyreType": "WINTER"
+    }
+  },
+  {
+    "model": "OCTAVIA",
+    "price": 90000,
+    "mileage": 2600,
+    "engine": {
+      "engineType": "LPG",
+      "power": 140.0
+    },
+    "carBody": {
+      "color": "RED",
+      "bodyType": "COMBI",
+      "components": [
+        "ABS",
+        "ESP",
+        "BLUETOOTH"
+      ]
+    },
+    "wheel": {
+      "model": "C",
+      "size": 17,
+      "tyreType": "SUMMER"
+    }
+  },
+  {
+    "model": "JETTA",
+    "price": 122000,
+    "mileage": 800,
+    "engine": {
+      "engineType": "DIESEL",
+      "power": 140.0
+    },
+    "carBody": {
+      "color": "SILVER",
+      "bodyType": "SEDAN",
+      "components": [
+        "BLUETOOTHS",
+        "AIR BAG"
+      ]
+    },
+    "wheel": {
+      "model": "C",
+      "size": 17,
+      "tyreType": "WINTER"
+    }
+  },
+  {
+    "model": "CITY",
+    "price": 50000,
+    "mileage": 115000,
+    "engine": {
+      "engineType": "LPG",
+      "power": 75.0
+    },
+    "carBody": {
+      "color": "RED",
+      "bodyType": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AUX",
+        "ESP",
+        "PARKING SENSORSN"
+      ]
+    },
+    "wheel": {
+      "model": "OPC",
+      "size": 15,
+      "tyreType": "SUMMER"
+    }
+  },
+  {
+    "model": "AUDI",
+    "price": 120,
+    "mileage": 12000,
+    "engine": {
+      "type": "DIESEL",
+      "power": 210.0
+    },
+    "carBody": {
+      "color": "BLACK",
+      "type": "HATCHBACK",
+      "components": [
+        "ABS",
+        "AIR CONDITIONING"
+      ]
+    },
+    "wheel": {
+      "type": "SUMMER",
+      "model": "PIRELLI",
+      "size": 18
+    }
+  }
+]
